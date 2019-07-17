@@ -1,0 +1,4 @@
+com/streamlinity/ct/bst/solution/Bst.class
+com/streamlinity/ct/bst/BstTestApplication.class
+com/streamlinity/ct/bst/springConfiguration/BstConfig.class
+com/streamlinity/ct/bst/api/BstOpsInterface.class

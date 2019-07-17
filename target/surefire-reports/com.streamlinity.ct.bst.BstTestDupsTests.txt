@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.streamlinity.ct.bst.BstTestDupsTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 16.845 s <<< FAILURE! - in com.streamlinity.ct.bst.BstTestDupsTests
+testSearchInBstForExistingValue(com.streamlinity.ct.bst.BstTestDupsTests)  Time elapsed: 0.252 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.streamlinity.ct.bst.BstTestDupsTests.testSearchInBstForExistingValue(BstTestDupsTests.java:47)
+
+testClear(com.streamlinity.ct.bst.BstTestDupsTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.streamlinity.ct.bst.BstTestDupsTests.testClear(BstTestDupsTests.java:103)
+
+testValueCountInBst(com.streamlinity.ct.bst.BstTestDupsTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.streamlinity.ct.bst.BstTestDupsTests.testValueCountInBst(BstTestDupsTests.java:38)
+
+testSearchInBstForMissingValue(com.streamlinity.ct.bst.BstTestDupsTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.streamlinity.ct.bst.BstTestDupsTests.testSearchInBstForMissingValue(BstTestDupsTests.java:67)
+
+testCorrectBstTreeConstruction(com.streamlinity.ct.bst.BstTestDupsTests)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.streamlinity.ct.bst.BstTestDupsTests.testCorrectBstTreeConstruction(BstTestDupsTests.java:85)
+

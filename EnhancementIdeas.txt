@@ -1,0 +1,26 @@
+MUST HAVE
+
+1) Get Hacker Rank integration done!!!
+2) Candidate Problem Statement
+
+
+
+NICE TO HAVE
+
+Documentation
+
+2) Get JavaDoc working and deployed
+
+TestSuite
+
+1) Tests that will fail for Mock but work for Ref solutions - e.g. InOrder traversal
+2) Restructure tests for better scoring (?)
+
+API changes
+
+1) InOrderTraversal API - changes in Mock/Ref Solution
+
+Git
+
+1) Figure out GitFlow model to be used for all CT.
+2) Automate stripping of all Ref/Mock solutions from HackerRank Release Branch or Fork.
